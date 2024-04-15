@@ -3,3 +3,6 @@ This repo has a new adaptation of the original protocol for the Draw a Computer 
 
 The file descriptions follow:
 
+Draw a Computer Scientist Test - Template
+This is a printed Google Form contains an example study consent script, a demographics section, the image section with description prompt, and a set of additional open response questions taken from the standard Martin (2004) protocol. This can be used as a Google form for online DACST data collection along with a paper copy of the 
+
