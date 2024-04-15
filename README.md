@@ -6,8 +6,8 @@ The file descriptions follow:
 Draw a Computer Scientist Test - Template
 This is a printed Google Form contains an example study consent script, a demographics section, the image section with description prompt, and a set of additional open response questions taken from the standard Martin (2004) protocol. This can be used as an online form (Google Form, MS form, etc.) for DACST data collection. Use with the DACST Image Box.
 
-DACST Image Box. 
-The students are sked to draw their image, take photo of the image, and upload it using the online form (see above).
+DACST Image Box - Template
+The students are asked to draw their image, take photo of the image, and upload it using the online form (see above).
 
 
 
