@@ -26,5 +26,11 @@ This spreadsheet provides a template for the coding of images. Each coding assis
 
 For Image and Text Data Storage: 
 
+DACST DB Plans - 
 
+This is a presentation for a prototype database to store the images and open response data collected from the online form. There are many ways to design a database for this project, this is just one possible example.
+
+DACST DB Requirements and Specifications - 
+
+This is a set of requirements and specifications for a prototype database to store the DACST image and text data from the online form.
 
